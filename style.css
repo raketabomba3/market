@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+}
+body {
+    font-family: sans-serif;
+    background-color: #E06969;;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    margin-bottom: 20px;
+    background-color: #000000;
+}
+
+.button {
+    background-color: #36bbce;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    display: flex;
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+    background-color: #E06969;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+}
+
+article {
+    background-color: white;
+    padding: 30px;
+    width: 400px;
+    margin: 30px;
+    text-align: center;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: grey;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    margin-top: 50px;
+}
+
+footer {
+    display: flex;
+    background-color: white;
+    padding: 20px;
+    
+}
+
+footer a {
+    margin-right: ;
+}
+
+footer p {
+    font-size: 24px;
+}
+
+main{
+    background-color: #E06969;
+}
